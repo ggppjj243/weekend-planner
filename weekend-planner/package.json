@@ -1,0 +1,12 @@
+{
+  "name": "weekend-planner",
+  "version": "1.0.0",
+  "description": "AI智能周末活动规划师 - 7节点工作流应用",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
